@@ -2,7 +2,7 @@
 This is a game. The player is a green circle, the water are the blue circles and the 
 soda are the brown circle. The goal is for the player to consume all of the water while 
 tring to avoid the soda. The water makes the player grow and the soda make the player
-shrink. This game was on what my parents told me as a child. "Soda makes you shrink, so
+shrink. This game was based on what my parents would tell me as a child. "Soda makes you shrink, so
 don't drink too much."
 
 # Development Environment
